@@ -6,4 +6,5 @@
 - realize um push
 - convide um colaborador
 
-  > "Um pequeno passo para o homem mas um gigantesco passo para a humanidade"
+  > "Um pequeno passo para o homem mas um gigantesco salto para a humanidade"
+  > "All's well that ends well"
